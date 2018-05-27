@@ -31,3 +31,4 @@ describe "Not having any errors and being all green" do
       }.to_not raise_error
     end
   end
+end
